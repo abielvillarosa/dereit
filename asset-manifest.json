@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dereit/static/css/main.34de6062.chunk.css",
-    "main.js": "/dereit/static/js/main.62ddd6a4.chunk.js",
-    "main.js.map": "/dereit/static/js/main.62ddd6a4.chunk.js.map",
+    "main.js": "/dereit/static/js/main.07241b54.chunk.js",
+    "main.js.map": "/dereit/static/js/main.07241b54.chunk.js.map",
     "runtime-main.js": "/dereit/static/js/runtime-main.cbd4f035.js",
     "runtime-main.js.map": "/dereit/static/js/runtime-main.cbd4f035.js.map",
     "static/js/2.33e48ace.chunk.js": "/dereit/static/js/2.33e48ace.chunk.js",
     "static/js/2.33e48ace.chunk.js.map": "/dereit/static/js/2.33e48ace.chunk.js.map",
     "index.html": "/dereit/index.html",
-    "precache-manifest.c76682d1b3b458e75b05dbe9e144e4c6.js": "/dereit/precache-manifest.c76682d1b3b458e75b05dbe9e144e4c6.js",
+    "precache-manifest.685b2bde6d660c0bb23526b422865c0c.js": "/dereit/precache-manifest.685b2bde6d660c0bb23526b422865c0c.js",
     "service-worker.js": "/dereit/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/dereit/static/css/main.34de6062.chunk.css.map",
     "static/media/banner.png": "/dereit/static/media/banner.0c52cd9d.png",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.cbd4f035.js",
     "static/js/2.33e48ace.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.62ddd6a4.chunk.js"
+    "static/js/main.07241b54.chunk.js"
   ]
 }

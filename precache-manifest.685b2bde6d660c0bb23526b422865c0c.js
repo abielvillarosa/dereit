@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22b8aa2598348876467a7eae4925398a",
+    "revision": "7ab040b8326dbd75a3d9905ac83a9b15",
     "url": "/dereit/index.html"
   },
   {
-    "revision": "359c6a18c3f9af1bf8a2",
+    "revision": "647f5e1b23e80fca00e4",
     "url": "/dereit/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dereit/static/js/2.33e48ace.chunk.js"
   },
   {
-    "revision": "359c6a18c3f9af1bf8a2",
-    "url": "/dereit/static/js/main.62ddd6a4.chunk.js"
+    "revision": "647f5e1b23e80fca00e4",
+    "url": "/dereit/static/js/main.07241b54.chunk.js"
   },
   {
     "revision": "86f843f2b0a2d1107377",
