@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dereit/static/css/main.34de6062.chunk.css",
+    "main.js": "/dereit/static/js/main.c7f606de.chunk.js",
+    "main.js.map": "/dereit/static/js/main.c7f606de.chunk.js.map",
+    "runtime-main.js": "/dereit/static/js/runtime-main.cbd4f035.js",
+    "runtime-main.js.map": "/dereit/static/js/runtime-main.cbd4f035.js.map",
+    "static/js/2.33e48ace.chunk.js": "/dereit/static/js/2.33e48ace.chunk.js",
+    "static/js/2.33e48ace.chunk.js.map": "/dereit/static/js/2.33e48ace.chunk.js.map",
+    "index.html": "/dereit/index.html",
+    "precache-manifest.5d5fb506809bb1fc560790095ecd8da4.js": "/dereit/precache-manifest.5d5fb506809bb1fc560790095ecd8da4.js",
+    "service-worker.js": "/dereit/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/dereit/static/css/main.34de6062.chunk.css.map",
+    "static/media/banner.png": "/dereit/static/media/banner.0c52cd9d.png",
+    "static/media/dereit-logo.PNG": "/dereit/static/media/dereit-logo.ea60e965.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbd4f035.js",
+    "static/js/2.33e48ace.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.c7f606de.chunk.js"
+  ]
+}
