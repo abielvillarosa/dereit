@@ -22,7 +22,7 @@ const NavBar = () => {
         <div className={classes.root}>
         <AppBar position="static">
           <Toolbar>
-          <a href="/deReit"><img src= { logo } alt="logo" className={classes.logo}></img></a>         
+          <a href="/dereit"><img src= { logo } alt="logo" className={classes.logo}></img></a>         
 
     </Toolbar>
         </AppBar>

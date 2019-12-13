@@ -8,7 +8,7 @@ export default class BlockchainClient {
         window.ethereum.enable()
         this.provider = new ethers.providers.Web3Provider(window.web3.currentProvider)
         this.signer = this.provider.getSigner()
-        this.dashboardContract = new ethers.Contract("0x7EC9bdA4c5badc9D3A2728E4952687007F4e6B91", PublicEntryABI, this.signer)
+        this.dashboardContract = new ethers.Contract("0x563f1B58BD6f91B30F0f16A9767B3989DA8BF3Cb", PublicEntryABI, this.signer)
         // this.account = this.provider.getSigner()
         this.signer.getAddress().then((address) => {
             console.log("Wallet Address: " + address);

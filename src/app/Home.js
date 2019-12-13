@@ -119,7 +119,7 @@ class Home extends Component {
 
             <div align="center">
             <Typography style={{margin:10 }} variant="body1" noWrap>Deployed on: Ropsten</Typography>
-            <Typography style={{margin:10 }} variant="body1" noWrap>Contract Address: 0x7EC9bdA4c5badc9D3A2728E4952687007F4e6B91</Typography>
+            <Typography style={{margin:10 }} variant="body1" noWrap>Contract Address: 0x563f1B58BD6f91B30F0f16A9767B3989DA8BF3Cb</Typography>
 
             <Typography style={{margin:10 }} variant="body1" noWrap>Transaction Hash: {this.state.txHash}</Typography>
             </div>
